@@ -1,5 +1,5 @@
 # Excel-Clone
-## Excel clone is built using electron framework with technologies such as HTML, CSS, JQuery.
+## Excel clone is built with technologies such as HTML, CSS, JQuery.
 
 Some of the main features of the project include -
 1. Formula evaluation
